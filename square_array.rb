@@ -9,6 +9,5 @@
 def square_array(array)
   squared_array = []
   squared_array << array.collect { |x| x**2 }
-  end
   squared_array
 end
