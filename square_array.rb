@@ -4,6 +4,5 @@ def square_array(array)
   end
 end
 
-def advanced(array)
-  array.collect { |x| x**2 }
-end
+
+#array.collect { |x| x**2 }
