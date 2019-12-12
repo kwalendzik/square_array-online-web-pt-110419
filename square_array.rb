@@ -6,7 +6,7 @@
   #squared_array
 #end
 
-def advanced(array)
+def square_array(array)
   squared_array = []
   squared_array << array.collect { |x| x**2 }
   end
